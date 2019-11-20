@@ -11,7 +11,7 @@ Using your editor, simply edit the top 3 variables to download pip packages for 
 Requires python and pip installed before running.  Placed example packages for example.  Your needs may vary and YMMV.
 
 ### References
-[https://stackoverflow.com/questions/7300321/how-to-use-pythons-pip-to-download-and-keep-the-zipped-files-for-a-package]
+https://stackoverflow.com/questions/7300321/how-to-use-pythons-pip-to-download-and-keep-the-zipped-files-for-a-package
 
 ## License
 
